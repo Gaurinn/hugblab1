@@ -170,7 +170,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "clean": "rm -rf node_modules"
   },
   "repository": {
     "type": "git",
